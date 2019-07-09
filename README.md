@@ -129,6 +129,8 @@ Variables declared with ```const``` keyword can't be reassigned, while ```let```
 
 I recommend always declaring your variables with ```const``` by default, and with ```let``` if you need to *mutate* it or reassign it later.
 
+Neil: https://baijiahao.baidu.com/s?id=1621787284851612777&wfr=spider&for=pc JavaScript 中 var 和 let 和 const 关键字的区别
+
 <table>
   <tr>
     <th></th>
